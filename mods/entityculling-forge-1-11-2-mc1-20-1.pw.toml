@@ -1,0 +1,8 @@
+name = "entityculling-forge-1.11.2-mc1.20.1"
+filename = "entityculling-forge-1.11.2-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Sottoo/incursion-pack/main/jars/entityculling-forge-1.11.2-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "5d5dc228dc18422fd8a81cff63e654abb07ca4507b317db114b220aa3fc67d3b"

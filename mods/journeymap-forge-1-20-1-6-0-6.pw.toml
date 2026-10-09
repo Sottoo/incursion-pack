@@ -1,0 +1,8 @@
+name = "journeymap-forge-1.20.1-6.0.6"
+filename = "journeymap-forge-1.20.1-6.0.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Sottoo/incursion-pack/main/jars/journeymap-forge-1.20.1-6.0.6.jar"
+hash-format = "sha256"
+hash = "6d223e4ed97bcf7af5636c5e5aed2a1569c32fc68d08e8d34c3a8c26876d4190"
