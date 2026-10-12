@@ -37,6 +37,11 @@ hash = "c30801d608982aefbb485583e17a500b38b7c9f75d33c148bfd88d7de8db2986"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-forge-1-20-1-4-8-4.pw.toml"
+hash = "2b9f147431d955e5fabf60a6c257838564b7c40b32b204af6a1111536f673904"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore-forge-1-20-1-0-0-1-1.pw.toml"
 hash = "8c76ca5f6af7051caa2234d58f8b80539ce29f3b2b50669d466c176396f318fa"
 metafile = true
@@ -47,8 +52,8 @@ hash = "098ff38e73afbd326b60f00ba8c5cf97ac4d7990d33eb27578e53088909a26c9"
 metafile = true
 
 [[files]]
-file = "mods/incursion-0-9-65.pw.toml"
-hash = "7ae2a2816f86baa615756be4887dc3fd0a2f4024bb09e962a9df166b350d0ee0"
+file = "mods/incursion-0-9-72.pw.toml"
+hash = "57b41653daea81419805d7f469ef542ffedc56ea00e32557eb5b9808b118b3fb"
 metafile = true
 
 [[files]]
@@ -59,6 +64,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix-forge-5-27-85-mc1-20-1.pw.toml"
 hash = "c942b42e5715a5916e056d3390bfde20ba48f10683496a4532f1bff7f9e9f104"
+metafile = true
+
+[[files]]
+file = "mods/naturalist-5-0pre2-forge-1-20-1.pw.toml"
+hash = "42a348140c25d30643b6135ad7195fad0c5fccde0fd95edeff4838af3df6111c"
 metafile = true
 
 [[files]]

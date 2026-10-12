@@ -1,0 +1,8 @@
+name = "incursion-0.9.72"
+filename = "incursion-0.9.72.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Sottoo/incursion-pack/main/jars/incursion-0.9.72.jar"
+hash-format = "sha256"
+hash = "57dc93edc904aac27f449566a6de174827bccb85a8f47bbb5d311eeef80eef65"
