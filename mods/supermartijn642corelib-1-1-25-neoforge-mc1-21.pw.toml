@@ -1,0 +1,8 @@
+name = "supermartijn642corelib-1.1.25-neoforge-mc1.21"
+filename = "supermartijn642corelib-1.1.25-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Sottoo/incursion-pack/1.21.1/jars/supermartijn642corelib-1.1.25-neoforge-mc1.21.jar"
+hash-format = "sha256"
+hash = "0824bdd7cd5b5654eeb05dc9b62b42003b081b781009c38dc83ee1e106ca4ce2"

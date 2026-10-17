@@ -1,0 +1,13 @@
+name = "Incursion 1.21.1"
+author = "Sottoo"
+version = "0.10.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8696cf51bfc41418c2ef2e72e938108434b50318cee4c99a57dddcef0a02466c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.259"

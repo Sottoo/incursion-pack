@@ -1,0 +1,8 @@
+name = "naturalist-2.0.5-neoforge-1.21.1"
+filename = "naturalist-2.0.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Sottoo/incursion-pack/1.21.1/jars/naturalist-2.0.5-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "8a35e7effd69323e7e03d43fc116ddc846f2ca72744d80f52ac75bd251e36ab6"

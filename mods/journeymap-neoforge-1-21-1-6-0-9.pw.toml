@@ -1,0 +1,8 @@
+name = "journeymap-neoforge-1.21.1-6.0.9"
+filename = "journeymap-neoforge-1.21.1-6.0.9.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Sottoo/incursion-pack/1.21.1/jars/journeymap-neoforge-1.21.1-6.0.9.jar"
+hash-format = "sha256"
+hash = "9bd7734542233d5281750572f17a9258449e826650c081e9a67dc426262c2fde"

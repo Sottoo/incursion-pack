@@ -1,0 +1,2 @@
+# Los archivos se suben byte por byte: el launcher revisa su huella y cualquier cambio de saltos de linea la rompe
+* -text

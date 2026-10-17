@@ -1,0 +1,8 @@
+name = "DecorativeBlocks-Reborn-neoforge-1.21.1-6.0.2"
+filename = "DecorativeBlocks-Reborn-neoforge-1.21.1-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Sottoo/incursion-pack/1.21.1/jars/DecorativeBlocks-Reborn-neoforge-1.21.1-6.0.2.jar"
+hash-format = "sha256"
+hash = "b45af6e2cc1e1d6e78a4ef4a89d256d067c4f3711ce9153e048a2acd2db59dac"

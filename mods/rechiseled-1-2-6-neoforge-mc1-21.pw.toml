@@ -1,0 +1,8 @@
+name = "rechiseled-1.2.6-neoforge-mc1.21"
+filename = "rechiseled-1.2.6-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Sottoo/incursion-pack/1.21.1/jars/rechiseled-1.2.6-neoforge-mc1.21.jar"
+hash-format = "sha256"
+hash = "cd638bb122d7e1afce4f38b1c7da3af99be7b9f523869cfbc15e5347db5f8d9a"
