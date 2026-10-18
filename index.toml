@@ -165,6 +165,11 @@ hash = "184cb81b8760768eb2ac355e1bbe9af43d6ae3af9cdfbaf4452a2d07e1562eb8"
 metafile = true
 
 [[files]]
+file = "mods/spark-1-10-124-neoforge.pw.toml"
+hash = "7ba4a5b8c1adbf8b3f142dbb045d8976e09e62f13eb1b2410bfb227cf4b55a17"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642configlib-1-1-8-neoforge-mc1-21.pw.toml"
 hash = "c113cdadbcd3d0fbba65c0762a446e218ac73225cc27b1673cb40ae2dea64ec0"
 metafile = true
