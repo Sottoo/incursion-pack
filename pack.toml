@@ -1,12 +1,12 @@
 name = "Incursion 1.21.1"
 author = "Sottoo"
-version = "0.10.0"
+version = "0.10.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8696cf51bfc41418c2ef2e72e938108434b50318cee4c99a57dddcef0a02466c"
+hash = "14c438a43d3e67d05996e5fa8331bda09c993af87a348dfd5971228a90dbb726"
 
 [versions]
 minecraft = "1.21.1"

@@ -80,8 +80,8 @@ hash = "bed763caeb953d7c022f6811bade854d78d0ff2d18a29f97cb8bc7b07d76a4e5"
 metafile = true
 
 [[files]]
-file = "mods/incursion-0-10-0.pw.toml"
-hash = "98977a84e2fff30f2811a376176f8f0e5896f3b13440a5116e52a205c6f4453a"
+file = "mods/incursion-0-10-1.pw.toml"
+hash = "28e8420c3b6d7e322e4e62bac9f08568d868b7232adc5e646dcf03f4d9f2f8c8"
 metafile = true
 
 [[files]]
